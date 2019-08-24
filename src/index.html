@@ -4,23 +4,25 @@
     <meta charset="utf-8">
     <title>Caesar Cipher</title>
     <link rel="stylesheet" href="style.css" />
-    <link href="https://fonts.googleapis.com/css?family=Hammersmith+One|Passion+One&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Russo+One|Sorts+Mill+Goudy&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Spectral&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=DM+Serif+Text&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Noto+Serif+JP&display=swap" rel="stylesheet">
     
   </head>
+  
   <body>
     <div id="root">
-      <h1>"TU CLAVE <br> SECRETA"</h1>
-      <p> Bievenido a "Tu clave secreta" ,<br> el sitio web donde podras crear las contraseñas <br> que desees para tus estudiantes </p>
+      <h1>" TU CLAVE  SECRETA " </h1>
+      <p class="textwelcome"> Bievenido a "Tu clave secreta" ,<br> el sitio web donde podras crear las contraseñas <br> que desees para tus estudiantes </p>
 
-        <p> Pero antes de comenzar lee las siguientes intrucciones </p>
+        <p class="textwelcome"> Pero antes de comenzar lee las siguientes intrucciones </p>
     
         <div id="rules">
-        <div class="pass" > Paso 1 <br> Elige <strong> Cifrar </strong>  Para crear tu contraseña o <br> Decifrar  Para averiguar el origen de tu contraseña </div>
-        <div class="pass" > Paso 2 <br> En caso de Cifrar:Ingresa el nombre , apellido  y fecha de nacimiento 
+        <div class="pass" > Paso 1 <br><hr> Elige <strong> Cifrar </strong>  Para crear tu contraseña o <br> Decifrar  Para averiguar el origen de tu contraseña </div>
+        <div class="pass" > Paso 2 <br><hr> En caso de Cifrar:Ingresa el nombre , apellido  y fecha de nacimiento 
              Decifrar: Ingresa contraseña a la cual quieras averiguar nombre de estudiante.         
         </div>
-        <div class="pass" > Paso 3 <br> Ingresa un numero de desplazamientos que desee , presiona enviar y <strong> ¡LISTO! </strong> </div> <br>
+        <div class="pass" > Paso 3 <br><hr> Ingresa un numero de desplazamientos que desee , presiona enviar y <strong> ¡LISTO! </strong> </div> <br>
     </div>
         
         <div id="buttons" class="clear" >
@@ -28,13 +30,13 @@
            <button id="button2" class="btn">Decifrar</button>
         </div>
         <div id="encryption">
-            <p> Cifrado </p>
-            <p>Ingrese nombre y apellido de estudiante. Recuerda  que debe ser con letras mayúsculas y sin espacio </p>
+            <p class="text2"> Cifrado </p>
+            <p class="text2">Ingrese texto para crear contraseña </p>
             <textarea class="text1"  id="textarea1" ></textarea>       
             
-            <p>Seleccione  desplazamiento</p>
+            <p class="text2">Seleccione  desplazamiento</p>
             <input type="number"   min="1" max="5" step="1" id="numero" class="inputNumner">
-            <button id="enviar" class="btn">enviar</button> <br>
+            <button id="enviar" class="btn">Enviar</button> <br>
             <textarea class="text1" id="textarea2" value="camila"></textarea> <br>
            
                 
@@ -43,11 +45,11 @@
         </div>
     
         <div id="decoded">
-                <p> Decifrado </p>
-                <p>Ingrese texto que desee descubirir origen </p>
+                <p class="text2"> Decifrado </p>
+                <p class="text2">Ingrese texto que desee descubirir origen </p>
                 <textarea class="text1" id="textarea3" ></textarea> 
                
-                <p>Seleccione desplazamiento</p>
+                <p class="text2">Seleccione desplazamiento</p>
                 <input type="number" id="number2" min="1" max="5" step="1" class="inputNumner">
                 <button id="submit2" class="btn">Enviar</button> <br>
                 <textarea class="text1" id="textarea4" ></textarea> <br>

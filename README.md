@@ -2,7 +2,7 @@
 
 Cifrar significa codificar. El [cifrado César](https://en.wikipedia.org/wiki/Caesar_cipher) es uno de los primeros métodos de cifrado conocidos. El emperador romano Julio César lo usaba para enviar órdenes secretas a sus generales en los campos de batalla.
 
-![caeser-cipher](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Caesar3.svg/2000px-Caesar3.svg.png)
+![caeser-cipher](https://drive.google.com/file/d/1UImgfI4fzpfLGz6zxf2l2oSdnjZ0YghQ/view?usp=sharing)
 
 El cifrado césar es una de las técnicas más simples para cifrar un mensaje. Es un tipo de cifrado por sustitución, es decir que cada letra del texto original es reemplazada por otra que se encuentra un número fijo de posiciones (desplazamiento) más adelante en el mismo alfabeto.
 
@@ -290,3 +290,9 @@ Esta sección está  para ayudarte a llevar un control de lo que vas completando
 * [ ] Cifra/descifra minúsculas
 * [ ] Cifra/descifra _otros_ caracteres (espacios, puntuación, `ñ`, `á`, ...)
 * [ ] Permite usar un `offset` negativo.
+
+
+##Introducción al proceso
+
+Durante el la primera semana del “bootcamp” se planteó el desafío de crear una aplicación web basada en el cifrado cesar, el cual tenía una serie de requisitos
+Para empezar se pensó e investigo en una  temática a cual sería útil  aplicar este cifrado, llegando a la conclusión que sería de gran utilidad  para la elaboración de contraseñas seguras para las distintas universidades de nuestro país, con esa idea  se comienza a  diseñar un flujo de caja, mediante feedback con las compañeras y  las couch se realizan las mejoras necesarias para facilitar la experiencia del usuario (tale como quitar botones innecesarios que no facilitan la aplicación) 
