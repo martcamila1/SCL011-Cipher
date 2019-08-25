@@ -18,17 +18,25 @@ starDecoded.addEventListener("click" , function (){
     hideEncryption.style.display = "none" ;
 });
 
-let hola = document.getElementById("clean");
-hola.addEventListener("click" , function (){
+let reset = document.getElementById("clean");
+reset.addEventListener("click" , function (){
   let new1 = document.getElementById("textarea1").value="";
   let new2 = document.getElementById("textarea2").value="";
   let new3 = document.getElementById("numero").value="";
   
-  new1 = ("");
-  new2 = ("");
-  new3 = ("");
+
+  
 return new1,new2,new3;
 
+});
+
+let cleanDecoded = document.getElementById("clean2");
+cleanDecoded.addEventListener("click" , function (){
+  let new4 = document.getElementById("textarea3").value="";
+  let new5 = document.getElementById("textarea4").value="";
+  let new6 = document.getElementById("number2").value="";
+ 
+  return new4,new5,new6;
 });
 
  
