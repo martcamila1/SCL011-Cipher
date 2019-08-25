@@ -8,7 +8,7 @@ Flujo
 
 ![imagen](https://i.ibb.co/sb85C8w/flujo2.png)
 
-Posteriormente se realiza  prototipo en papel y se realiza la misma dinámica anteriormente mencionada, con el  feedback de compañeras y de las couch se realizan las mejoras para hacer más funcional y atractiva nuestra pagina  tales como:
+Posteriormente se realiza  prototipo en papel y se realiza la misma dinámica anteriormente mencionada, con el  feedback de compañeras y de las couch se realizan las mejoras para hacer más funcional y atractiva nuestra página ,  tales como:
 
 -Escribir instrucciones para hacer más entendible el sitio web .
 
@@ -16,7 +16,7 @@ Posteriormente se realiza  prototipo en papel y se realiza la misma dinámica an
 
 -Cambiar botón “otra vez” por “reestablecer”.
 
-Por último se procede a realizar prototipo en plataforma “Balsamiq” y se realiza planificación del proyecto con los detalles este  en [Trello](https://trello.com/b/GRJEy4OI/proyecto-laboratoria) .
+Por último se procede a realizar prototipo en plataforma “Balsamiq” y se realiza planificación del proyecto con los detalles de este en [Trello](https://trello.com/b/GRJEy4OI/proyecto-laboratoria) .
 
 Cabe destacar que durante el proyecto los prototipos sufrían modificaciones de acuerdo a los nuevos requerimientos que se iban descubriendo o a las necesidades de modificar el código para hacerlo más amigable para el usuario. 
 
@@ -75,13 +75,13 @@ Para descubrir origen de contraseña o que alumno pertenece. :key:
 
 ## Usabilidad 
 Se realiza con el fin de evaluar que tan funcional es el sitio web para los usuarios. 
-Para esto se eligió a tres personas, a cada uno de  estos se le realizo una breve instrucción sobre de que se trataba el sitio web y se les comento que ha medida de que fueran avanzando o leyendo textos de la aplicación fueran verbalizando lo que iban pensando sobre esta.
+Para esto se eligió a tres personas, a cada uno de  estos se le realizo una breve introducción sobre de que se trataba el sitio web y se les comento que ha medida de que fueran avanzando o leyendo textos de la aplicación fueran verbalizando lo que iban pensando sobre esta.
 
 -Usuario uno de 24 años sexo masculino : describe el sitio web como fácil y sencillo de entender , los botones son fácil de encontrar ,el diseño es simple pero adecuado al proyecto , se podría mejorar acotar el texto del paso número dos , hacer funcionar botón restablecer y que al presionar cifrar o decifrar baje automaticamente la página.
 
 -Usuario dos 29 años sexo masculino: menciona que aplicación fácil de entender,  colores amigable, refiere que encuentra cajas de texto de adecuado tamaño ,se podría aumentar tamaño de letra de primer párrafo , modificar su estructura y hacer funcionar le botón restablecer.
 
--Usuario tres de 30 años sexo femenino: menciona que es adecuado el tipo de letras y colores, le parece amigable que existan inducciones que explique como utilizar el cifrado  y refiere  comprenderlas, las  cajas de texto le aparecen adecuadas, pero los botones les parecen un poco pequeños por lo que sugiere aumentar el tamaño de esto y le parece buena idea agregar el botón reestablecer para que el usuario no tenga que borrar por su cuenta el texto.
+-Usuario tres de 30 años sexo femenino: menciona que es adecuado el tipo de letras y colores, le parece amigable que existan intrucciones que explique como utilizar el cifrado  y refiere  comprenderlas, las  cajas de texto le aparecen adecuadas, pero los botones les parecen un poco pequeños por lo que sugiere aumentar el tamaño de esto y le parece buena idea agregar el botón reestablecer para que el usuario no tenga que borrar por su cuenta el texto.
 
 Con los datos señalados  se logra modificar:
 
@@ -91,7 +91,7 @@ Con los datos señalados  se logra modificar:
  
  Aumentar tamaño de botones .
 
-No se logra hacer funcionar de forma correcta botón restablecer y tampoco que al presionar cifrar o decifrar la pagina web baje automaticamente, pero es un punto importante para hacer la experiencia de usuario más funcional, por lo que se espera poder implementarlo en fututos proyectos.
+No se logra hacer funcionar de forma correcta botón restablecer y tampoco que al presionar cifrar o decifrar la página web baje automaticamente, pero es un punto importante para hacer la experiencia de usuario más funcional, por lo que se espera poder implementarlo en futuros proyectos.
 
 Proyecto final :blush:.
 
