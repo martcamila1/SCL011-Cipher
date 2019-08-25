@@ -26,38 +26,39 @@ Además si crea alguna una contraseña y olvida a que estudiante pertenece podr�
 
 Por lo que público objetivo  es todo  personal que trabaje en el área estudiantil o el sector de admisión de las universidades e instituto y que necesitan crear contraseñas seguras a cada uno de  estudiantes.
 
-## Descripción “Tu Clave Secreta”
+## Descripción “Tu Clave Secreta” :key:
 
 Tu clave secreta como se mencionó anteriormente es un sitio web para crear contraseñas a los alumnos de las distintas instituciones estudiantiles del país, este tiene dos opciones “Cifrar” con la cual el usuario podrá crear las contraseñas que desee y “Descifrar” para que pueda descubrir el origen de la contraseña o en caso que cree alguna clave y olvide  a que alumno pertenece podrá recuperarla por medio de este método.
 Este sitio está basado en el cifrado cesar, el cual es un tipo de cifrado por sustitución, es decir que cada letra del texto original es reemplazada por otra que se encuentra un número fijo de posiciones (desplazamiento) más adelante en el mismo alfabeto .Por ejemplo para cifrar el texto “ABC” con desplazamiento 3 devolverá “DEF” y para descifrar “DEF” con desplazamiento 3  devolverá el texto “ABC”
 
 Con esta técnica se procedió a crear el cifrado el cual se puede usar de la siguiente manera:
 
-Para crear  contraseña se debe escoger el botón de “cifrar”
+Para crear  contraseña se debe escoger el botón de “cifrar”:key:
 
--Al presionar este se desplegara lo necesario para ejecutar dicha acción .
+     -Al presionar este se desplegara lo necesario para ejecutar dicha acción .
 
--En el primer recuadro de texto  se ingresa texto que desee cifrar, en el cual se sugiere nombre, apellido y fecha de nacimiento.
+     -En el primer recuadro de texto  se ingresa texto que desee cifrar, en el cual se sugiere nombre, apellido y fecha de nacimiento.
 
--Luego se escogen los desplazamientos deseados los cuales van desde número 1 al 5.
+     -Luego se escogen los desplazamientos deseados los cuales van desde número 1 al 5.
 
--Presionar botón enviar y aparecerá texto cifrado en el segundo cuadro de texto, el cual corresponde a la contraseña otorgada según los caracteres escritos.
+     -Presionar botón enviar y aparecerá texto cifrado en el segundo cuadro de texto, el cual corresponde a la     contraseña otorgada según los caracteres escritos.
 
--Si desea volver a cifrar debe borrar los cuadros de textos.
+     -Si desea volver a cifrar debe borrar los cuadros de textos.
+
 
 Para descubrir origen de contraseña o que alumno pertenece.
 
--Se debe escoger botón descifrar
+     -Se debe escoger botón descifrar.
 
--Al presionar este se desplegara lo necesario para ejecutar dicha acción .
+     -Al presionar este se desplegara lo necesario para ejecutar dicha acción .
 
--En el primer recuadro de texto  se ingresa texto que desee descifrar, que en este caso sería la contraseña a la cual se quería averiguar nombre del alumno u origen.
+     -En el primer recuadro de texto  se ingresa texto que desee descifrar, que en este caso sería la contraseña a la cual se quería averiguar nombre del alumno u origen.
 
--Luego se escogen los desplazamientos deseados los cuales van desde número 1 al 5.
+     -Luego se escogen los desplazamientos deseados los cuales van desde número 1 al 5.
 
--Presionar botón enviar, aparecerá texto descifrado en el segundo cuadro de texto , el cual corresponde al origen de la contraseña.
+     -Presionar botón enviar, aparecerá texto descifrado en el segundo cuadro de texto , el cual corresponde al origen de la contraseña.
 
--Si desea volver descifrar debe borrar los cuadros de textos.
+     -Si desea volver descifrar debe borrar los cuadros de textos.
 
 
 ## Usabilidad 
@@ -76,5 +77,7 @@ Con los datos señalados  se logra modificar:
  Aumentar tamaño de letra de primer párrafo 
 
 No se logra modificar botón restablecer, pero es un punto importante para hacer la experiencia de usuario más funcional, por lo que se espera poder implementarlo en fututos proyectos.
+
+Proyecto final :blush:.
 
 ![imagen](https://i.ibb.co/Zm3C3cK/Tu-clave-secreta.png)
