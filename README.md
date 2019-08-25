@@ -73,7 +73,7 @@ Para descubrir origen de contraseña o que alumno pertenece. :key:
 Se realiza con el fin de evaluar que tan funcional es el sitio web para los usuarios. 
 Para esto se eligió a tres usuarios, a cada uno de  estos se le realizo una breve instrucción sobre de que se trataba el sitio web y se les comento  que ha medida de que fueran avanzando o leyendo textos de la aplicación fueran verbalizando lo que iban pensando sobre esta.
 
--Usuario uno de 24 años sexo masculino : describe el sitio web como fácil y sencillo de entender , los botones son fácil de encontrar ,el diseño es simple  pero adecuado al proyecto , se podría mejorar acotar el texto del paso número dos , hacer funcionar botón restablecer y que al presionar cifrar o decifrar baje automaticamente la página.
+-Usuario uno de 24 años sexo masculino : describe el sitio web como fácil y sencillo de entender , los botones son fácil de encontrar ,el diseño es simple pero adecuado al proyecto , se podría mejorar acotar el texto del paso número dos , hacer funcionar botón restablecer y que al presionar cifrar o decifrar baje automaticamente la página.
 
 -Usuario dos 29 años sexo masculino: menciona que aplicación fácil de entender,  colores amigable, refiere que encuentra cajas de texto de adecuado tamaño ,refiere que se podría aumentar tamaño de letra de primer párrafo , modificar su estructura y hacer funcionar le botón restablecer.
 
