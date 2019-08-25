@@ -25,7 +25,7 @@ Prototipo
 ## Usuarios objetivos.:office:
 Las universidad e institutos de nuestro país cada año reciben a cientos de estudiantes a los cuales deben crearles  contraseñas  para ingresar a los distintos portales de su institución, estas deben ser seguras y distintas para cada uno, para que  se puedan evitar cualquier tipo de fraude, robo de material, conflictos en el momento de “toma de ramos”o problemas al momento de matricularse.
 
-Por lo que respondiendo  a estas necesidades se crea el sitio web “Tu clave secreta” un lugar donde los  establecimiento podrán crear las contraseñas que desee para sus estudiantes , estas serán completamente seguras y serán entregadas a cada uno de sus estos ,para crearlas se sugiere que lo realiza con el nombre y apellido de sus alumnos más su fecha de nacimiento , con simplemente estos datos se podrá obtener una clave para que sus alumnos ingresen a sus sitios de Intranet  y así evitar los molestos problemas mencionados anteriormente.
+Por lo que respondiendo  a estas necesidades se crea el sitio web “Tu clave secreta” un lugar donde los  establecimiento podrán crear las contraseñas que desee para sus estudiantes , estas serán completamente seguras y serán entregadas a cada uno de sus estos ,para crearlas se sugiere que lo realice con el nombre y apellido de sus alumnos más su fecha de nacimiento , con simplemente estos datos se podrá obtener una clave para que sus alumnos ingresen a sus sitios de Intranet  y así evitar los molestos problemas mencionados anteriormente.
 
 Además si crea alguna una contraseña y olvida a que estudiante pertenece podrá recuperar el nombre  del alumno a través del botón descifrado, por esta razón se recomienda que use los datos anteriormente mencionados.
 
@@ -33,13 +33,15 @@ Por lo que público objetivo  es todo  personal que trabaje en el área estudian
 
 ## Descripción “Tu Clave Secreta” :key:
 
-Tu clave secreta como se mencionó anteriormente es un sitio web para crear contraseñas a los alumnos de las distintas instituciones estudiantiles del país, este tiene dos opciones “Cifrar” con la cual el usuario podrá crear las contraseñas que desee y “Descifrar” para que pueda descubrir el origen de la contraseña o en caso que cree alguna clave y olvide  a que alumno pertenece podrá recuperarla por medio de este método.
+Tu clave secreta como se mencionó anteriormente es un sitio web para crear contraseñas a los alumnos de las distintas instituciones estudiantiles del país, este tiene dos opciones “Cifrar” con la cual el usuario podrá crear las contraseñas que desee y “Descifrar” para que pueda descubrir el origen de la contraseña o en caso que cree alguna clave y olvide a que alumno pertenece podrá recuperarla por medio de este método.
 
-Este sitio está basado en el cifrado cesar, el cual es un tipo de cifrado por sustitución, es decir que cada letra del texto original es reemplazada por otra que se encuentra un número fijo de posiciones (desplazamiento) más adelante en el mismo alfabeto .Por ejemplo para cifrar el texto “ABC” con desplazamiento 3 devolverá “DEF” y para descifrar “DEF” con desplazamiento 3  devolverá el texto “ABC”
+Este sitio está basado en el cifrado cesar, el cual es un tipo de cifrado por sustitución, es decir que cada letra del texto original es reemplazada por otra que se encuentra un número fijo de posiciones (desplazamiento) más adelante en el mismo alfabeto .Por ejemplo para cifrar el texto “ABC” con desplazamiento 3 devolverá “DEF” y para descifrar “DEF” con desplazamiento 3  devolverá el texto “ABC”.
+
+Con esta técnica se procedió a crear el cifrado el cual se puede usar de la siguiente manera:
 
 Para descargar aplicacion debe ingresar al siguiente [link](https://martcamila1.github.io/SCL011-Cipher/src/index.html)
 
-Con esta técnica se procedió a crear el cifrado el cual se puede usar de la siguiente manera:
+Leer las tres intrucciones que salen en el inicio.
 
 Para crear contraseña se debe escoger el botón de “cifrar”:key:
 
@@ -75,7 +77,7 @@ Para esto se eligió a tres usuarios, a cada uno de  estos se le realizo una bre
 
 -Usuario uno de 24 años sexo masculino : describe el sitio web como fácil y sencillo de entender , los botones son fácil de encontrar ,el diseño es simple pero adecuado al proyecto , se podría mejorar acotar el texto del paso número dos , hacer funcionar botón restablecer y que al presionar cifrar o decifrar baje automaticamente la página.
 
--Usuario dos 29 años sexo masculino: menciona que aplicación fácil de entender,  colores amigable, refiere que encuentra cajas de texto de adecuado tamaño ,refiere que se podría aumentar tamaño de letra de primer párrafo , modificar su estructura y hacer funcionar le botón restablecer.
+-Usuario dos 29 años sexo masculino: menciona que aplicación fácil de entender,  colores amigable, refiere que encuentra cajas de texto de adecuado tamaño ,se podría aumentar tamaño de letra de primer párrafo , modificar su estructura y hacer funcionar le botón restablecer.
 
 -Usuario tres de 30 años sexo femenino: menciona que es adecuado el tipo de letras y colores, le parece amigable que existan inducciones que explique como utilizar el cifrado  y refiere  comprenderlas, las  cajas de texto le aparecen adecuadas, pero los botones les parecen un poco pequeños por lo que sugiere aumentar el tamaño de esto y le parece buena idea agregar el botón reestablecer para que el usuario no tenga que borrar por su cuenta el texto.
 
