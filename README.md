@@ -1,4 +1,5 @@
 ## Introducción al proceso :closed_lock_with_key:
+
 Durante la primera semana del “bootcamp” se planteó el desafío de crear una aplicación web basada en el cifrado cesar, la cual tenía una serie de requisitos.
 
 Para empezar se pensó e investigo en una  temática a cual sería útil  aplicar este cifrado llegando a la conclusión que sería de gran utilidad para la elaboración de contraseñas seguras para las distintas universidades de nuestro país,con esa idea  se comienza a  diseñar un flujo de caja, mediante feedback con las compañeras y  las couch se realizan las mejoras necesarias para facilitar la experiencia del usuario (tale como quitar botones innecesarios que no facilitan la aplicación) 
@@ -7,7 +8,7 @@ Flujo
 
 ![imagen](https://i.ibb.co/sb85C8w/flujo2.png)
 
-Posteriormente se realiza  prototipo en papel y se realiza la misma dinámica anteriormente mencionada, con el  feedback de compañeras y de las couch se realizan las mejoras para hacer más funcional y atractivo nuestro sitio web tales como:
+Posteriormente se realiza  prototipo en papel y se realiza la misma dinámica anteriormente mencionada, con el  feedback de compañeras y de las couch se realizan las mejoras para hacer más funcional y atractiva nuestra pagina  tales como:
 
 -Escribir instrucciones para hacer más entendible el sitio web .
 
@@ -15,21 +16,22 @@ Posteriormente se realiza  prototipo en papel y se realiza la misma dinámica an
 
 -Cambiar botón “otra vez” por “reestablecer”.
 
-Por último se procede a realizar prototipo en plataforma “Balsamiq” y se realiza planificación del proyecto con los detalles del proyecto  en [Trello](https://trello.com/b/GRJEy4OI/proyecto-laboratoria) .
+Por último se procede a realizar prototipo en plataforma “Balsamiq” y se realiza planificación del proyecto con los detalles este  en [Trello](https://trello.com/b/GRJEy4OI/proyecto-laboratoria) .
 
+Cabe destacar que durante el proyecto los prototipos sufrían modificaciones de acuerdo a los nuevos requerimientos que se iban descubriendo o a las necesidades de modificar el código para hacerlo más amigable para el usuario. 
 
 Prototipo
 
 ![imagen](https://i.ibb.co/wNS1Nrx/prototipo-imagenes2.png)
 
 ## Usuarios objetivos.:office:
-Las universidad e institutos de nuestro país cada año reciben a cientos de estudiantes a los cuales deben crearles  contraseñas  para ingresar a los distintos portales de su institución, estas deben ser seguras y distintas para cada uno, para que  se puedan evitar cualquier tipo de fraude, robo de material, conflictos en el momento de “toma de ramos”o problemas al momento de matricularse.
+Las universidad e institutos de nuestro país cada año reciben a cientos de estudiantes a los cuales deben crearles  contraseñas  para ingresar a los distintos portales de su institución, estas deben ser seguras y distintas para cada uno para que se pueda evitar cualquier tipo de fraude, robo de material, conflictos en el momento de “toma de ramos” o problemas al momento de matricularse.
 
 Por lo que respondiendo  a estas necesidades se crea el sitio web “Tu clave secreta” un lugar donde los  establecimiento podrán crear las contraseñas que desee para sus estudiantes , estas serán completamente seguras y serán entregadas a cada uno de sus estos ,para crearlas se sugiere que lo realice con el nombre y apellido de sus alumnos más su fecha de nacimiento , con simplemente estos datos se podrá obtener una clave para que sus alumnos ingresen a sus sitios de Intranet  y así evitar los molestos problemas mencionados anteriormente.
 
-Además si crea alguna una contraseña y olvida a que estudiante pertenece podrá recuperar el nombre  del alumno a través del botón descifrado, por esta razón se recomienda que use los datos anteriormente mencionados.
+Además si crea alguna una contraseña y olvida a que estudiante pertenece podrá recuperar el nombre del alumno a través del botón descifrado, por esta razón se recomienda que use los datos anteriormente mencionados.
 
-Por lo que público objetivo  es todo  personal que trabaje en el área estudiantil o el sector de admisión de las universidades e instituto y que necesitan crear contraseñas seguras a cada uno de  estudiantes.
+Por lo que público objetivo  es todo  personal que trabaje en el área estudiantil o el sector de admisión de las universidades e institutos y que necesitan crear contraseñas seguras a cada uno de  estudiantes.
 
 ## Descripción “Tu Clave Secreta” :key:
 
@@ -73,7 +75,7 @@ Para descubrir origen de contraseña o que alumno pertenece. :key:
 
 ## Usabilidad 
 Se realiza con el fin de evaluar que tan funcional es el sitio web para los usuarios. 
-Para esto se eligió a tres usuarios, a cada uno de  estos se le realizo una breve instrucción sobre de que se trataba el sitio web y se les comento  que ha medida de que fueran avanzando o leyendo textos de la aplicación fueran verbalizando lo que iban pensando sobre esta.
+Para esto se eligió a tres personas, a cada uno de  estos se le realizo una breve instrucción sobre de que se trataba el sitio web y se les comento que ha medida de que fueran avanzando o leyendo textos de la aplicación fueran verbalizando lo que iban pensando sobre esta.
 
 -Usuario uno de 24 años sexo masculino : describe el sitio web como fácil y sencillo de entender , los botones son fácil de encontrar ,el diseño es simple pero adecuado al proyecto , se podría mejorar acotar el texto del paso número dos , hacer funcionar botón restablecer y que al presionar cifrar o decifrar baje automaticamente la página.
 

@@ -1,7 +1,7 @@
 /*Acá va tu código*/
 let starEncryption = document.getElementById("button1");
 
-starEncryption.addEventListener("click" , function (){
+starEncryption.addEventListener("click" ,  () => {
     let visualizeEncryption = document.getElementById("encryption");
     let hideDecoded = document.getElementById("decoded");
     visualizeEncryption.style.display = "block" ;
@@ -11,7 +11,7 @@ starEncryption.addEventListener("click" , function (){
 
 let starDecoded = document.getElementById("button2");
 
-starDecoded.addEventListener("click" , function (){
+starDecoded.addEventListener("click" ,  () => {
     let visualizeDecoded = document.getElementById("decoded");
     let hideEncryption = document.getElementById("encryption");
     visualizeDecoded.style.display = "block" ;
@@ -19,7 +19,7 @@ starDecoded.addEventListener("click" , function (){
 });
 
 let reset = document.getElementById("clean");
-reset.addEventListener("click" , function (){
+reset.addEventListener("click" ,  () =>{
   let new1 = document.getElementById("textarea1").value="";
   let new2 = document.getElementById("textarea2").value="";
   let new3 = document.getElementById("numero").value="";
@@ -31,7 +31,7 @@ return new1,new2,new3;
 });
 
 let cleanDecoded = document.getElementById("clean2");
-cleanDecoded.addEventListener("click" , function (){
+cleanDecoded.addEventListener("click" , () =>{
   let new4 = document.getElementById("textarea3").value="";
   let new5 = document.getElementById("textarea4").value="";
   let new6 = document.getElementById("number2").value="";
