@@ -41,7 +41,7 @@ Para descargar aplicacion debe ingresar al siguiente [link](https://martcamila1.
 
 Con esta técnica se procedió a crear el cifrado el cual se puede usar de la siguiente manera:
 
-Para crear  contraseña se debe escoger el botón de “cifrar”:key:
+Para crear contraseña se debe escoger el botón de “cifrar”:key:
 
      -Al presionar este se desplegara lo necesario para ejecutar dicha acción .
 
