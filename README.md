@@ -1,8 +1,26 @@
-# Cifrado César
+## Introducción al proceso
+Durante el la primera semana del “bootcamp” se planteó el desafío de crear una aplicación web basada en el cifrado cesar, el cual tenía una serie de requisitos
+Para empezar se pensó e investigo en una  temática a cual sería útil  aplicar este cifrado, llegando a la conclusión que sería de gran utilidad  para la elaboración de contraseñas seguras para las distintas universidades de nuestro país, con esa idea  se comienza a  diseñar un flujo de caja, mediante feedback con las compañeras y  las couch se realizan las mejoras necesarias para facilitar la experiencia del usuario (tale como quitar botones innecesarios que no facilitan la aplicación) 
 
-Cifrar significa codificar. El [cifrado César](https://en.wikipedia.org/wiki/Caesar_cipher) es uno de los primeros métodos de cifrado conocidos. El emperador romano Julio César lo usaba para enviar órdenes secretas a sus generales en los campos de batalla.
 
 ![imagen](https://i.ibb.co/sb85C8w/flujo2.png)
+
+Posteriormente se realiza  prototipo en papel, se realiza la misma dinámica anteriormente mencionada, con el  feedback de compañeras y couch se realizan las mejoras para hacer más funcional y atractivo nuestro sitio web tales como:
+
+-Escribir instrucciones para hacer más entendible el sitio web 
+-Cambiar o explicar las palabras cifrado y descifrado para que  las persona  comprendan de mejor forma de que se tratan estas.
+-Cambiar botón “otra vez” por “reestablecer”
+Por último se procede a realizar prototipo en plataforma “Balsamiq” y se realiza planificación del proyecto con los detalles del proyecto  en Trello link.
+
+INSERTE IMAGEN DE PROTOTIPO
+
+## Público objetivo.
+Las universidad e institutos de nuestro país cada año reciben a cientos de estudiantes a los cuales deben crearles  contraseñas  para ingresar a los distintos portales de su institución, estas deben ser seguras y  distintas para cada uno, para que  se puedan evitar cualquier tipo de fraude, robo de material, conflictos en el momento de “toma de ramos” o problemas al momento de matricularse.
+
+Por lo que respondiendo  a estas necesidades se crea el sitio web “Tu clave secreta” un lugar donde los  establecimiento podrá crear las contraseñas que desee para sus estudiantes , estas serán completamente seguras y serán entregadas a cada uno de sus estos ,para crearlas se sugiere que lo realiza con el nombre y apellido de sus alumnos más su fecha de nacimiento , con simplemente estos datos se podrá obtener una clave para que sus alumnos ingresen a sus sitios de Intranet  y así evitar los molestos problemas mencionados anteriormente.
+
+Además si crea alguna una contraseña y olvida a que estudiante pertenece podrá recuperar el nombre  del alumno a través del botón descifrado, por esta razón se recomienda que use los datos anteriormente mencionados.
+Por lo que público objetivo  es todo  personal que trabaje en el área estudiantil o el sector de admisión de las universidades e instituto y que necesitan crear contraseñas seguras a cada uno de  estudiantes.
 
 pruebas
 
