@@ -46,8 +46,8 @@ encryptionNew.addEventListener("click" , () => {                                
 let chain = document.getElementById("textarea1").value;  
                                                                      // crear variable a caja de textopara tomar valor
 let numberEncryption = Number.parseInt(document.getElementById("numero").value); //crear variable a input tipo number y parsear
-let textocifrado = document.getElementById("textarea2"); 
-textocifrado.innerHTML = window.cipher.encode(chain ,numberEncryption) // para llamar funcion
+let textEncrytion = document.getElementById("textarea2"); 
+textEncrytion.innerHTML = window.cipher.encode(chain ,numberEncryption) // para llamar funcion
 })
 
 let decodedNew = document.getElementById("submit2");                               //crear variable para Boton enviar
